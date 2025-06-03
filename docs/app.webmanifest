@@ -1,16 +1,16 @@
 {
-  "id": "/#/",
-  "scope": "/",
+  "id": "/submission-web-intermediate-terakhir/#/",
+  "scope": "/submission-web-intermediate-terakhir/",
   "name": "Aplikasi Story",
   "short_name": "Story App",
-  "start_url": "/index.html",
+  "start_url": "/submission-web-intermediate-terakhir/index.html#/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#00FFFF",
   "orientation": "portrait",
   "icons": [
     {
-      "src": "/submission-web-intermediate-terakhir/icons/note-icon.jpg",
+      "src": "/submission-web-intermediate-terakhir/icons/note-icon.png",
       "sizes": "225x225",
       "type": "image/png"
     }
@@ -34,5 +34,21 @@
       "type": "image/png",
       "form_factor": "wide"
     }
+  ],
+  "shortcuts": [
+    {
+      "name": "Story Baru",
+      "short_name": "Baru",
+      "description": "Membuat story baru.",
+      "url": "/submission-web-intermediate-terakhir/#/create",
+      "icons": [
+        {
+          "src": "/submission-web-intermediate-terakhir/icons/note-icon.png",
+          "type": "image/png",
+          "sizes": "512x512"
+        }
+      ]
+    }
   ]
 }
+
