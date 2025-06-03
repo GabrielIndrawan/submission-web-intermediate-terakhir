@@ -3,7 +3,7 @@
   "scope": "/submission-web-intermediate-terakhir/",
   "name": "Aplikasi Story",
   "short_name": "Story App",
-  "start_url": "/submission-web-intermediate-terakhir/index.html#/",
+  "start_url": "/submission-web-intermediate-terakhir/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#00FFFF",
