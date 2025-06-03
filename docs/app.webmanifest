@@ -33,6 +33,12 @@
       "sizes": "1366x768",
       "type": "image/png",
       "form_factor": "wide"
+    },
+    {
+      "src": "/submission-web-intermediate-terakhir/screenshots/Screenshot_4.png",
+      "sizes": "1080x2200",
+      "type": "image/png",
+      "form_factor": "narrow"
     }
   ],
   "shortcuts": [
