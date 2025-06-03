@@ -10,27 +10,27 @@
   "orientation": "portrait",
   "icons": [
     {
-      "src": "/submission-web-intermediate-terakhir/icons/note-icon.jpg",
-      "sizes": "192x192",
+      "src": "icons/note-icon.jpg",
+      "sizes": "225x225",
       "type": "image/png"
     }
   ],
   "screenshots": [
     {
       "src": "/submission-web-intermediate-terakhir/screenshots/Screenshot_1.png",
-      "sizes": "1920x1043",
+      "sizes": "1366x768",
       "type": "image/png",
       "form_factor": "wide"
     },
     {
-      "src": "/submission-web-intermediate-terakhir/screenshots/Screenshoot_2.png",
-      "sizes": "1920x1043",
+      "src": "/submission-web-intermediate-terakhir/screenshots/Screenshot_2.png",
+      "sizes": "1366x768",
       "type": "image/png",
       "form_factor": "wide"
     },
     {
-      "src": "/screenshots/Screenshoot_3.png",
-      "sizes": "1920x1043",
+      "src": "/submission-web-intermediate-terakhir/screenshots/Screenshot_3.png",
+      "sizes": "1366x768",
       "type": "image/png",
       "form_factor": "wide"
     }
