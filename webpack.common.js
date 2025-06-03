@@ -21,6 +21,7 @@ module.exports = {
       template: "index.html",
       filename: "index.html",
       excludeChunks: ['sw'],
+      favicon: "./public/icons/note-icon.jpg"
     }),
     new CopyWebpackPlugin({patterns: [
         {
