@@ -10,7 +10,7 @@
   "orientation": "portrait",
   "icons": [
     {
-      "src": "icons/note-icon.jpg",
+      "src": "/submission-web-intermediate-terakhir/icons/note-icon.jpg",
       "sizes": "225x225",
       "type": "image/png"
     }
